@@ -1,0 +1,19 @@
+.addTaskForm {
+    margin: 10px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 2px #ccc;
+    width: 600px;
+    padding: 20px;
+}
+
+.addTaskForm input {
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+}
+
+.addTaskForm button{
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+}
